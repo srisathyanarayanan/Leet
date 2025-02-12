@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
