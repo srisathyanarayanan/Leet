@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/srisathyanarayanan/Leet/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srisathyanarayanan/Leet/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srisathyanarayanan/Leet/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/srisathyanarayanan/Leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srisathyanarayanan/Leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -36,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
