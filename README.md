@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/srisathyanarayanan/Leet/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
