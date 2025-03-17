@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srisathyanarayanan/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srisathyanarayanan/Leet/tree/master/1777-determine-if-two-strings-are-close) |
+| [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/srisathyanarayanan/Leet/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srisathyanarayanan/Leet/tree/master/1777-determine-if-two-strings-are-close) |
+| [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 ## Geometry
 |  |
 | ------- |
