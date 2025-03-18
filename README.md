@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srisathyanarayanan/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srisathyanarayanan/Leet/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/srisathyanarayanan/Leet/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srisathyanarayanan/Leet/tree/master/1777-determine-if-two-strings-are-close) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
