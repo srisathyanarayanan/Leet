@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/srisathyanarayanan/Leet/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/srisathyanarayanan/Leet/tree/master/0812-rotate-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srisathyanarayanan/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srisathyanarayanan/Leet/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/srisathyanarayanan/Leet/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
