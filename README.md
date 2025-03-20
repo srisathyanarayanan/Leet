@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srisathyanarayanan/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/srisathyanarayanan/Leet/tree/master/1651-shuffle-string) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/srisathyanarayanan/Leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/srisathyanarayanan/Leet/tree/master/2502-sort-the-people) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srisathyanarayanan/Leet/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srisathyanarayanan/Leet/tree/master/1777-determine-if-two-strings-are-close) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/srisathyanarayanan/Leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/srisathyanarayanan/Leet/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/srisathyanarayanan/Leet/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
