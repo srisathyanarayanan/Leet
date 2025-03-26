@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/srisathyanarayanan/Leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/srisathyanarayanan/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/srisathyanarayanan/Leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/srisathyanarayanan/Leet/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srisathyanarayanan/Leet/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/srisathyanarayanan/Leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/srisathyanarayanan/Leet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/srisathyanarayanan/Leet/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/srisathyanarayanan/Leet/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
