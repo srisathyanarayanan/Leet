@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/srisathyanarayanan/Leet/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srisathyanarayanan/Leet/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srisathyanarayanan/Leet/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
