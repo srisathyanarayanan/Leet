@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/srisathyanarayanan/Leet/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/srisathyanarayanan/Leet/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/srisathyanarayanan/Leet/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/srisathyanarayanan/Leet/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/srisathyanarayanan/Leet/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/srisathyanarayanan/Leet/tree/master/1651-shuffle-string) |
