@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/srisathyanarayanan/Leet/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
+| [0899-binary-gap](https://github.com/srisathyanarayanan/Leet/tree/master/0899-binary-gap) |
 | [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
