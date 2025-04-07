@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/srisathyanarayanan/Leet/tree/master/2502-sort-the-people) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/srisathyanarayanan/Leet/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
