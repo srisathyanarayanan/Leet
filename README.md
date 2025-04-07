@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/srisathyanarayanan/Leet/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/srisathyanarayanan/Leet/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/srisathyanarayanan/Leet/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
 | [2502-sort-the-people](https://github.com/srisathyanarayanan/Leet/tree/master/2502-sort-the-people) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3396-valid-word](https://github.com/srisathyanarayanan/Leet/tree/master/3396-valid-word) |
 ## Bit Manipulation
 |  |
