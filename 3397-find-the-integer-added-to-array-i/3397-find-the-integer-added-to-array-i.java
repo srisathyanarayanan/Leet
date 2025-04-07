@@ -3,8 +3,8 @@ class Solution {
          int first = 0;
         int second = 0;
         int last = 0;
-        for(int i=0;i<nums1.length;i++){
-            first+=nums1[i];
+        for(int i:nums1){
+            first+=i;
         }
         System.out.println(first);
         for(int i:nums2){
