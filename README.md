@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srisathyanarayanan/Leet/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/srisathyanarayanan/Leet/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/srisathyanarayanan/Leet/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/srisathyanarayanan/Leet/tree/master/0932-monotonic-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/srisathyanarayanan/Leet/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srisathyanarayanan/Leet/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
