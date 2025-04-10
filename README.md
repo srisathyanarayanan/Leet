@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srisathyanarayanan/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/srisathyanarayanan/Leet/tree/master/1651-shuffle-string) |
+| [1833-find-the-highest-altitude](https://github.com/srisathyanarayanan/Leet/tree/master/1833-find-the-highest-altitude) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/srisathyanarayanan/Leet/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srisathyanarayanan/Leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srisathyanarayanan/Leet/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/srisathyanarayanan/Leet/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/srisathyanarayanan/Leet/tree/master/1833-find-the-highest-altitude) |
 ## String Matching
 |  |
 | ------- |
