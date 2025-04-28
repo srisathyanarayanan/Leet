@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/srisathyanarayanan/Leet/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/srisathyanarayanan/Leet/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/srisathyanarayanan/Leet/tree/master/2698-find-the-array-concatenation-value) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/srisathyanarayanan/Leet/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/srisathyanarayanan/Leet/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/srisathyanarayanan/Leet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/srisathyanarayanan/Leet/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/srisathyanarayanan/Leet/tree/master/1894-merge-strings-alternately) |
+| [2698-find-the-array-concatenation-value](https://github.com/srisathyanarayanan/Leet/tree/master/2698-find-the-array-concatenation-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/srisathyanarayanan/Leet/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/srisathyanarayanan/Leet/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2698-find-the-array-concatenation-value](https://github.com/srisathyanarayanan/Leet/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
