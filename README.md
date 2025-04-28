@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/srisathyanarayanan/Leet/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/srisathyanarayanan/Leet/tree/master/0268-missing-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/srisathyanarayanan/Leet/tree/master/1395-minimum-time-visiting-all-points) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/srisathyanarayanan/Leet/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/srisathyanarayanan/Leet/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Binary Search
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srisathyanarayanan/Leet/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
