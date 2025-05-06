@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srisathyanarayanan/Leet/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/srisathyanarayanan/Leet/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/srisathyanarayanan/Leet/tree/master/1833-find-the-highest-altitude) |
+| [2048-build-array-from-permutation](https://github.com/srisathyanarayanan/Leet/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/srisathyanarayanan/Leet/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/srisathyanarayanan/Leet/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/srisathyanarayanan/Leet/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/srisathyanarayanan/Leet/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
+| [2048-build-array-from-permutation](https://github.com/srisathyanarayanan/Leet/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/srisathyanarayanan/Leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2698-find-the-array-concatenation-value](https://github.com/srisathyanarayanan/Leet/tree/master/2698-find-the-array-concatenation-value) |
 ## Binary Search
