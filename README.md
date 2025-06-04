@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srisathyanarayanan/Leet/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srisathyanarayanan/Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/srisathyanarayanan/Leet/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/srisathyanarayanan/Leet/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/srisathyanarayanan/Leet/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/srisathyanarayanan/Leet/tree/master/0724-find-pivot-index) |
 | [0932-monotonic-array](https://github.com/srisathyanarayanan/Leet/tree/master/0932-monotonic-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srisathyanarayanan/Leet/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/srisathyanarayanan/Leet/tree/master/0643-maximum-average-subarray-i) |
 ## Trie
 |  |
 | ------- |
