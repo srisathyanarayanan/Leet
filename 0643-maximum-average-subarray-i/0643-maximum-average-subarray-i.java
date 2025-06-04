@@ -13,8 +13,8 @@ class Solution {
     
         double s = r;
         for(int i=1;i<=nums.length-k;i++){
-            sum = sum-nums[i-1];
-            sum = sum+nums[i+(k-1)];
+            sum = sum+(nums[i+(k-1)]-nums[i-1]);
+            
             r= (double)sum/k;
             System.out.println(r);
             s = Math.max(s,r);
